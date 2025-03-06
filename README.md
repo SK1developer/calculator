@@ -56,7 +56,8 @@ DEL removes the last entered character.
 
 Screenshot
 
-(Add a screenshot of the calculator interface here if needed.)
+(![Uploading calcalutor.png…]()
+)
 
 Contributing
 
