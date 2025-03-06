@@ -1,4 +1,4 @@
-![hum](https://github.com/user-attachments/assets/997901da-6e10-43a7-a492-5dc559975e41)code.withchiku - Calculator Web Application
+code.withchiku - Calculator Web Application
 
 Overview
 
